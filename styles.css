@@ -7,7 +7,7 @@ h1, h2, h3, h5, h6 {
   font-family: "Montserrat";
 }
 
-h4{
+h4 {
   font-family: "Ubuntu";
   margin-bottom: 25px;
 }
@@ -46,6 +46,10 @@ p {
 
 ._white-section {
   background-color: #7F8487;
+}
+
+.wwhite-section {
+  background-color: #DDDDDD;
 }
 
 /* Navigation bar */
